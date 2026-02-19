@@ -2,7 +2,7 @@ from pruebas import pruebas, pruebasSinGraficar, estacionesAleatorias
 
 #Prueba 1
 
-pruebas("Observatorio","Pantitlan")
+pruebas("Observatorio","Ciudad Azteca")
 
 #Prueba 2
 
